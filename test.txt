@@ -1,1 +1,12 @@
 https://yooniron.tistory.com/24
+
+https://corinediary.tistory.com/7
+
+git add 파일명
+
+git status
+
+파일 수정
+
+git commit -m "변경 내용 설명"
+git push -u origin main (파일명)
